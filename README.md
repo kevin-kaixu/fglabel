@@ -1,4 +1,4 @@
-# fglabel
+# Learning to Group and Label Fine-Grained Shape Components
 Learning to Group and Label Fine-Grained Shape Components
 This is the code repository for "Learning to Group and Label Fine-Grained Shape Components”
 
